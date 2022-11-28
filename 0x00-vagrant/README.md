@@ -1,1 +1,1 @@
-0x00-vagrant this is my emacs command
+0x00-vagrant
